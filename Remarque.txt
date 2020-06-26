@@ -1,0 +1,4 @@
+remarque:
+j'ai mis le mode passe d'utilisateure dans le code source comme un constante.
+pas de gestion du mod passe dans notre cas ,je le précise dans le 
+String passwd="aa";
